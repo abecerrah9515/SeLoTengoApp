@@ -1,0 +1,7 @@
+{
+  "name": "SeLoTengo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}

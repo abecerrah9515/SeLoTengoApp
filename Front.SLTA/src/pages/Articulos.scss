@@ -1,0 +1,21 @@
+.articulos-header {
+  border-style: none;
+  box-shadow: none;
+}
+
+.articulos-toolbar {
+  min-height: 6rem;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  font-family: "clash display";
+}
+
+.articulos-title {
+  font-size: 40px;
+  font-weight: 600;
+}
+
+.articulos-searchbar-toolbar {
+  min-height: 80px;
+}

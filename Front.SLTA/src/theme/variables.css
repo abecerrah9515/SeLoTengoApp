@@ -1,0 +1,67 @@
+:root {
+  /** PRIMARY (Turqueza) **/
+  --ion-color-primary: #2c9fa2;
+  --ion-color-primary-rgb: 44, 159, 162;
+  --ion-color-primary-contrast: #ffffff;
+  --ion-color-primary-contrast-rgb: 255, 255, 255;
+  --ion-color-primary-shade: #278c8f;
+  --ion-color-primary-tint: #47acb0;
+
+  /** PRIMARY HOVER **/
+  --ion-color-primary-hover: #124042;
+
+  /** PRIMARY DISABLED **/
+  --ion-color-primary-disabled: #a1d2d3;
+
+  /** SECONDARY (Amarillo) **/
+  --ion-color-secondary: #feb914;
+  --ion-color-secondary-rgb: 254, 185, 20;
+  --ion-color-secondary-contrast: #ffffff;
+  --ion-color-secondary-contrast-rgb: 0, 0, 0;
+  --ion-color-secondary-shade: #e0a312;
+  --ion-color-secondary-tint: #fec233;
+
+  /** TERTIARY (Naranja) **/
+  --ion-color-tertiary: #fe8826;
+  --ion-color-tertiary-rgb: 254, 136, 38;
+  --ion-color-tertiary-contrast: #000000;
+  --ion-color-tertiary-contrast-rgb: 0, 0, 0;
+  --ion-color-tertiary-shade: #e07821;
+  --ion-color-tertiary-tint: #fe9442;
+
+  /** TERTIARY HOVER **/
+  --ion-color-tertiary-hover: #f03812;
+
+  /** LIGHT (Beige) **/
+  --ion-color-light: #fff7e7;
+  --ion-color-light-rgb: 255, 255, 255;
+  --ion-color-light-contrast: #272727;
+  --ion-color-light-contrast-rgb: 39, 39, 39;
+  --ion-color-light-shade: #e0d9cb;
+  --ion-color-light-tint: #fff8e9;
+
+  /** MEDIUM (Gris claro) **/
+  --ion-color-medium: #ffffff;
+  --ion-color-medium-rgb: 255, 255, 255;
+  --ion-color-medium-contrast: #272727;
+  --ion-color-medium-contrast-rgb: 39, 39, 39;
+  --ion-color-medium-shade: #787878;
+  --ion-color-medium-tint: #949494;
+
+  /** DARK (Oscuro) **/
+  --ion-color-dark: #272727;
+  --ion-color-dark-rgb: 39, 39, 39;
+  --ion-color-dark-contrast: #ffffff;
+  --ion-color-dark-contrast-rgb: 255, 255, 255;
+  --ion-color-dark-shade: #222222;
+  --ion-color-dark-tint: #3d3d3d;
+
+  /** EXTRAS **/
+  --ion-color-vinotinto: #b21236;
+  --ion-color-vinculos: #51b1ff;
+  --ion-color-amarilloso: #fff4d3;
+  --ion-color-amarillo-pastel: #ffc741;
+  --ion-color-gris-fondos: #e5e5e5;
+  --ion-color-texto-gris: #505050;
+  --ion-color-blanco-fondos: #f9f9f9;
+}

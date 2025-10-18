@@ -1,0 +1,44 @@
+.detalle-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  padding: 16px;
+}
+
+.detalle-avatar {
+  margin: 0 auto;
+  width: 80px;
+  height: 80px;
+  margin-top: 2rem;
+}
+
+.detalle-titulo {
+  font-size: 28px;
+  color: #505050;
+  margin-top: 12px;
+}
+
+.detalle-imagen {
+  width: 80%;
+  margin: 16px auto;
+  border-radius: 5px;
+  overflow: hidden;
+}
+
+.detalle-precio {
+  font-size: 24px;
+  color: #fe8826;
+  margin-top: 8px;
+  font-weight: 600;
+}
+
+.detalle-descripcion {
+  width: 70%;
+  max-width: 500px;
+  text-align: left;
+  margin: 8px auto 24px auto;
+  color: #444;
+  line-height: 1.5;
+}

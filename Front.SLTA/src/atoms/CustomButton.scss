@@ -1,0 +1,9 @@
+.btn-container {
+  display: flex;
+  justify-content: center; // centra horizontal
+}
+
+.button-styles {
+  --padding-start: 30px;
+  --padding-end: 30px;
+}

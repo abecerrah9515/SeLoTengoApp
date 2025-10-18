@@ -1,0 +1,6 @@
+@Back.SLTA_HostAddress = http://localhost:5182
+
+GET {{Back.SLTA_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

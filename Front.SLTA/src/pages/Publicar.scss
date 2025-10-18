@@ -1,0 +1,82 @@
+.publicar-page {
+  background-color: #fffaf0;
+
+  .publicar-header {
+    border-style: none;
+  }
+
+  .publicar-toolbar {
+    min-height: 6rem;
+    display: flex;
+    align-items: center;
+    font-family: "clash display";
+    border-style: none;
+  }
+
+  .custom-select {
+    --background: white; /* Fondo blanco */
+    --border-color: transparent; /* Quita el borde */
+    --highlight-color-focused: transparent; /* Quita el color del borde al enfocar */
+    border: none !important; /* Elimina el borde del contenedor */
+    border-radius: 8px; /* (opcional) esquinas suaves */
+    color: black; /* Asegura que el texto sea visible */
+  }
+
+  .ruta {
+    margin: 12px 0;
+    font-size: 14px;
+    color: #666;
+  }
+  .image-center {
+    display: flex;
+    justify-content: center; // centra en horizontal
+    align-items: center; // centra en vertical
+    width: 100%; // ancho fijo o 100% si quieres full width
+    height: 200px; // alto fijo (si no lo pones, no habrá dónde centrar)
+    margin: 2rem 0;
+  }
+  .image-upload {
+    display: flex;
+    justify-content: center; // centra en horizontal
+    align-items: center;
+    width: 80%;
+    height: 200px; // alto fijo (si no lo pones, no habrá dónde centrar)
+
+    border: 2px dashed #ccc;
+    border-radius: 12px;
+    padding: 2rem 0;
+  }
+
+  .image-upload-icon {
+    font-size: 48px;
+    color: #009688;
+    display: block;
+  }
+
+  .image-upload-icon {
+    font-size: 40px;
+  }
+
+  .btn-publicar {
+    margin-top: 20px;
+    --background: #009688;
+    --border-radius: 8px;
+  }
+
+  .publicar-title {
+    font-size: 40px;
+    font-weight: 600;
+  }
+
+  .custom-input {
+    --background: #ffffff; // color de fondo del input
+    --border-color: transparent; // quita el borde
+    --highlight-color-focused: #272727; // quita el borde al hacer focus
+    border-radius: 8px; // opcional, para suavizar
+    padding: 8px; // opcional, espacio interno
+  }
+
+  .precio-content {
+    margin: 2rem 0;
+  }
+}
