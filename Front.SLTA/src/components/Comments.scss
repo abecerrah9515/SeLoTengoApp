@@ -1,0 +1,20 @@
+.comments-section {
+  padding: 0 1rem;
+  margin-bottom: 1rem;
+
+  .comment-card {
+    margin: 0.5rem 0;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+
+    ion-card-content {
+      padding: 12px;
+    }
+  }
+
+  ion-textarea {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 8px;
+    --background: white;
+  }
+}

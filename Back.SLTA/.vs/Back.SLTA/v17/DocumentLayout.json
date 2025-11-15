@@ -1,7 +1,28 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|d:\\onedrive - universidad libre\\semestre vii\\github\\selotengoappown\\back.slta\\back.slta\\application\\dtos\\updatepublicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|solutionrelative:back.slta\\application\\dtos\\updatepublicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|d:\\onedrive - universidad libre\\semestre vii\\github\\selotengoappown\\back.slta\\back.slta\\application\\dtos\\publicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|solutionrelative:back.slta\\application\\dtos\\publicationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|d:\\onedrive - universidad libre\\semestre vii\\github\\selotengoappown\\back.slta\\back.slta\\application\\dtos\\createpublicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|solutionrelative:back.slta\\application\\dtos\\createpublicationrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|d:\\onedrive - universidad libre\\semestre vii\\github\\selotengoappown\\back.slta\\back.slta\\controllers\\publicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|solutionrelative:back.slta\\controllers\\publicationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|d:\\onedrive - universidad libre\\semestre vii\\github\\selotengoappown\\back.slta\\back.slta\\infrastructure\\persistence\\inmemorydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{522BEB2C-9B6E-445D-A458-456FDA1A1649}|Back.SLTA\\Back.SLTA.csproj|solutionrelative:back.slta\\infrastructure\\persistence\\inmemorydatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,11 +30,76 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UpdatePublicationRequest.cs",
+              "DocumentMoniker": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Application\\DTOs\\UpdatePublicationRequest.cs",
+              "RelativeDocumentMoniker": "Back.SLTA\\Application\\DTOs\\UpdatePublicationRequest.cs",
+              "ToolTip": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Application\\DTOs\\UpdatePublicationRequest.cs",
+              "RelativeToolTip": "Back.SLTA\\Application\\DTOs\\UpdatePublicationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:29:07.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PublicationDto.cs",
+              "DocumentMoniker": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Application\\DTOs\\PublicationDto.cs",
+              "RelativeDocumentMoniker": "Back.SLTA\\Application\\DTOs\\PublicationDto.cs",
+              "ToolTip": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Application\\DTOs\\PublicationDto.cs",
+              "RelativeToolTip": "Back.SLTA\\Application\\DTOs\\PublicationDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:29:04.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CreatePublicationRequest.cs",
+              "DocumentMoniker": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Application\\DTOs\\CreatePublicationRequest.cs",
+              "RelativeDocumentMoniker": "Back.SLTA\\Application\\DTOs\\CreatePublicationRequest.cs",
+              "ToolTip": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Application\\DTOs\\CreatePublicationRequest.cs",
+              "RelativeToolTip": "Back.SLTA\\Application\\DTOs\\CreatePublicationRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:29:00.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PublicationsController.cs",
+              "DocumentMoniker": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Controllers\\PublicationsController.cs",
+              "RelativeDocumentMoniker": "Back.SLTA\\Controllers\\PublicationsController.cs",
+              "ToolTip": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Controllers\\PublicationsController.cs",
+              "RelativeToolTip": "Back.SLTA\\Controllers\\PublicationsController.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAAEAAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:28:34.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "InMemoryDataContext.cs",
+              "DocumentMoniker": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Infrastructure\\Persistence\\InMemoryDataContext.cs",
+              "RelativeDocumentMoniker": "Back.SLTA\\Infrastructure\\Persistence\\InMemoryDataContext.cs",
+              "ToolTip": "D:\\OneDrive - Universidad Libre\\Semestre VII\\GitHub\\SeLoTengoAppOwn\\Back.SLTA\\Back.SLTA\\Infrastructure\\Persistence\\InMemoryDataContext.cs",
+              "RelativeToolTip": "Back.SLTA\\Infrastructure\\Persistence\\InMemoryDataContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-18T15:28:14.889Z",
+              "EditorCaption": ""
             }
           ]
         }

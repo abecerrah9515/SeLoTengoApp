@@ -33,7 +33,7 @@
         color: #505050;
 
         &.article {
-          font-size: 16px;
+          font-size: 18px;
         }
 
         &.contact {
@@ -71,6 +71,7 @@
         &.contact {
           color: #007bff;
           font-size: larger;
+          font-weight: lighter;
         }
       }
     }

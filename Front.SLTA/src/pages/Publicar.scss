@@ -37,14 +37,27 @@
   }
   .image-upload {
     display: flex;
-    justify-content: center; // centra en horizontal
+    justify-content: center;
     align-items: center;
-    width: 80%;
-    height: 200px; // alto fijo (si no lo pones, no habrá dónde centrar)
-
-    border: 2px dashed #ccc;
+    width: 200px;
+    height: 200px;
     border-radius: 12px;
-    padding: 2rem 0;
+    border: 2px dashed #ccc;
+    margin: 0 auto;
+    cursor: pointer;
+    transition: 0.2s ease;
+  }
+  .preview-img {
+    width: 250px; /* ajusta el tamaño que desees */
+    height: 250px; /* cuadrado o como prefieras */
+    object-fit: cover; /* recorta sin deformar */
+    border-radius: 10px; /* opcional */
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.15);
+    cursor: pointer; /* mantiene clic activo */
+  }
+
+  .image-upload:hover {
+    border-color: #3880ff;
   }
 
   .image-upload-icon {

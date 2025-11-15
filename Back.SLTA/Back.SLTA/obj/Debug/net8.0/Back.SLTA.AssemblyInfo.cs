@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Back.SLTA")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+112455b28cbec0a340404ce17373d975da9300cb")]
 [assembly: System.Reflection.AssemblyProductAttribute("Back.SLTA")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Back.SLTA")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

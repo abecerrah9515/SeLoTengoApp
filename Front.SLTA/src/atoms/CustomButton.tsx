@@ -1,5 +1,5 @@
 import React from "react";
-import { IonButton } from "@ionic/react";
+import { IonButton, IonIcon } from "@ionic/react";
 import "./CustomButton.scss";
 
 interface CustomButtonProps {
@@ -10,10 +10,13 @@ interface CustomButtonProps {
   action: string;
 }
 
-const CustomButton = ({ action }: CustomButtonProps) => {
+const CustomButton: React.FC<CustomButtonProps> = ({ onClick, color = "tertiary", expand = "block", icon, action }) => {
   return (
     <div className="btn-container">
-      <IonButton className="button-styles">{action}</IonButton>
+      <IonButton className="button-styles" color={color} expand={expand} onClick={onClick}>
+        {icon && <IonIcon slot="start" icon={icon} />} {/* opcional */}
+        {action}
+      </IonButton>
     </div>
   );
 };
